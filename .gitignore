@@ -1,0 +1,9 @@
+materials/*
+drafts/*
+reviews/*
+topics/*
+published/*
+!covers/*
+current.json
+scripts/*.pyc
+__pycache__/
